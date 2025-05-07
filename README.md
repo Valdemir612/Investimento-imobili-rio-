@@ -14,7 +14,7 @@
         }
         header {
             text-align: center;
-            padding: 80px 40px;
+            padding: 80px 100px;
             background: linear-gradient(90deg, #000000 0%, #1a1a1a 100%);
             animation: slideIn 2s ease;
         }
