@@ -14,7 +14,7 @@
         }
         header {
             text-align: center;
-            padding: 50px 20px;
+            padding: 80px 40px;
             background: linear-gradient(90deg, #000000 0%, #1a1a1a 100%);
             animation: slideIn 2s ease;
         }
@@ -27,14 +27,14 @@
             margin: 20px 0;
         }
         section {
-            padding: 60px 20px;
+            padding: 80px 40px;
             max-width: 1200px;
             margin: auto;
             animation: fadeIn 2s ease;
         }
         .btn {
             display: inline-block;
-            margin: 20px 10px;
+            margin:  50px 20px;
             padding: 15px 30px;
             background-color: #ffffff;
             color: #000000;
